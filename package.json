@@ -16,5 +16,9 @@
     "gulp-sass": "^3.1.0",
     "gulp-util": "^3.0.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "graceful-fs": {
+      "version": "4.2.2"
+    }
+  }
 }
